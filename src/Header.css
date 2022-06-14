@@ -34,6 +34,7 @@
     font-weight: 900;
     color: #000;
     background-color: #cd9042;
+    cursor: pointer
 }
 .header .header-nav{
     display: flex;
