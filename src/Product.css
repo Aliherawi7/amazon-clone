@@ -17,7 +17,7 @@
     
 }
 .product > img{
-    max-width: 200px;
+    max-height: 200px;
     width: 100%;
     object-fit: contain;
     margin-bottom: 20px;
