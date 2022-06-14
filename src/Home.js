@@ -15,14 +15,14 @@ function Home() {
                 <div className="home-row">
                     <Product
                         id={1}
-                        title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae cupiditate,"
+                        title="Product name"
                         image="/image/product/1.jpg"
                         rating={4}
                         price={28}
                     />
                     <Product
                         id={2}
-                        title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae cupiditate,"
+                        title="Product name"
                         image="/image/product/2.jpg"
                         rating={5}
                         price={50} />
@@ -31,14 +31,14 @@ function Home() {
 
                     <Product
                         id={3}
-                        title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae cupiditate,"
+                        title="Product name"
                         image="/image/product/3.png"
                         rating={2}
                         price={20}
                     />
                     <Product
                         id={4}
-                        title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae cupiditate,"
+                        title="Product name"
                         image="/image/product/4.png"
                         rating={3}
                         price={68}
@@ -54,7 +54,7 @@ function Home() {
                 <div className="home-row">
                     <Product
                         id={6}
-                        title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae cupiditate,"
+                        title="Product name"
                         image="/image/product/6.png"
                         rating={5}
                         price={20}
