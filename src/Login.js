@@ -27,9 +27,9 @@ function Login() {
                 <img className="login-logo" src="/image/Amazon_logo_black.png" />
             </Link>
 
-            <div className="login-container">
+            <div className="login-container right-to-left">
                 <h1>Sign in</h1>
-                <form>
+                <form >
                     <h5>Email</h5>
                     <input type="text" value={Email} onChange={(e) => (e => setEmail(e.target.value))} />
                     <h5>Password</h5>
