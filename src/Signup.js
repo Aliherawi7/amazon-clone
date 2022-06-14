@@ -53,12 +53,12 @@ function Signup() {
     }
 
     return (
-        <div className="login-form">
+        <div className="login-form ">
             <Link to="/">
                 <img className="login-logo" src="/image/Amazon_logo_black.png" />
             </Link>
 
-            <div className="login-container">
+            <div className="login-container left-to-right">
                 <h1>Sign up</h1>
                 <form>
                     <h5>Email</h5>
