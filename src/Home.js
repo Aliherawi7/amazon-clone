@@ -16,7 +16,7 @@ function Home() {
                     <Product
                         id={1}
                         title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae cupiditate,"
-                        image="/image/product/1.png"
+                        image="/image/product/1.jpg"
                         rating={4}
                         price={28}
                     />
@@ -32,7 +32,7 @@ function Home() {
                     <Product
                         id={3}
                         title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae cupiditate,"
-                        image="/image/product/3.jpg"
+                        image="/image/product/3.png"
                         rating={2}
                         price={20}
                     />
@@ -46,7 +46,7 @@ function Home() {
                     <Product
                         id={5}
                         title="amazon clone"
-                        image="/image/product/5.jpg"
+                        image="/image/product/5.png"
                         rating={4}
                         price={98}
                     />
