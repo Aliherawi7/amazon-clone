@@ -46,6 +46,12 @@
     right: 30px;
     top: 162px;
 }
+.login-container .show-hide-RepeatPassword{
+    cursor: pointer;
+    position: absolute;
+    right: 30px;
+    top: 218px;
+}
 .login-container > p{
     font-size: 12px;
     margin-top: 12px;
