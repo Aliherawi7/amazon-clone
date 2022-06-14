@@ -6,3 +6,31 @@ body{
 a{
     color: #fff;
 }
+
+.left-to-right{
+    animation-name: left-to-right;
+    animation-duration: .4s;
+}
+
+@keyframes left-to-right {
+    from{
+        transform: translateX(-100vh);
+    }
+    to{
+        transform: translateX(0vh);
+    }
+}
+
+.right-to-left{
+    animation-name: right-to-left;
+    animation-duration: .4s;
+}
+
+@keyframes right-to-left {
+    from{
+        transform: translateX(100vh);
+    }
+    to{
+        transform: translateX(0vh);
+    }
+}
