@@ -1,0 +1,35 @@
+@font-face{
+    font-family: 'header1';
+    src: url('../fonts/header1.ttf');
+}
+@font-face{
+    font-family: 'header2';
+    src: url('../fonts/header2.ttf');
+}
+@font-face{
+    font-family: 'nexabold';
+    src: url('../fonts/nexabold.ttf');
+}
+@font-face{
+    font-family: 'nexalight';
+    src: url('../fonts/nexalight.ttf');
+}
+
+*{
+    --blue: #3498db;
+    --green: #2ecc71;
+    --purple: #9b59b6;
+    --black: #34495e;
+    --outline: #1abc9c;
+
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI','Helvetica Neue', sans-serif;
+    text-decoration: none;
+}
+#root{
+    padding: 0;
+    margin: 0;
+}
